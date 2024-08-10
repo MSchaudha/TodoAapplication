@@ -90,14 +90,14 @@ Steps to run application-
 
 1.Clone repository
 
-2.navigate to assignment-react directory
+2.navigate to TodoApplication directory 
 
 3.Run back-end server
   npx nodemon Server.js
   By default, the server runs on http://localhost:3001. 
 
-4.Navigate to front-end client folder
-  cd client
+4.Navigate to front-end clientside folder
+  cd clientside
   npm start
   Open your browser and go to http://localhost:3000 to use the app.
 
