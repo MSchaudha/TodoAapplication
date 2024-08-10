@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+Features-
+-Add new to-do items: Users can add tasks Item to their list.
+-Edit Items: Users can edit Item from list.
+-Delete Item: Users can remove Item from their list.
+-View Item: Users can see all Item.
+
+Front-End:
+React
+Axios (for API requests)
+CSS for styling
+
+Back-End:
+Node.js
+Express
+CORS (Cross-Origin Resource Sharing)
+
+Steps to run application-
+
+1.Clone repository
+
+2.navigate to assignment-react directory
+
+3.Run back-end server
+  npx nodemon Server.js
+  By default, the server runs on http://localhost:3001. 
+
+4.Navigate to front-end client folder
+  cd client
+  npm start
+  Open your browser and go to http://localhost:3000 to use the app.
+
